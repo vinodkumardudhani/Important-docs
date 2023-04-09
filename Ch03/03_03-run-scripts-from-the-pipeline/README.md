@@ -70,3 +70,5 @@ The exercise files for this lesson include a [Jenkinsfile](./Jenkinsfile) and a 
     - Click `Commit changes`.
   - Go to the Jenkins server and observe the job being triggered by the change you just made in GitHub.
   - *NOTE: If your job is not triggered, review the configuration for the Jenkins job and the GitHub repo, making any adjustments as needed.  If needed, start again with a new job in Jenkins or with a new webhook in GitHub.*
+
+[![Build Status](http://13.251.29.41/8080/buildStatus/icon?job=Fibonaci)](http://13.251.29.41/8080/job/Fibonaci/)
